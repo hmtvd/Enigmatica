@@ -1,8 +1,8 @@
-###Enigmatica
+### Enigmatica
 
 A simple Python chatbot.
 
-##⭐ About the Project
+## ⭐ About the Project
 
 Enigmatica is a basic chatbot that reads what the user types and gives a simple response.
 The main goal of this project is to understand how a chatbot works and how to build one from scratch.
@@ -17,7 +17,7 @@ Easy to understand and modify
 
 You can add more features anytime
 
-##📁 Folder Structure
+## 📁 Folder Structure
 Enigmatica/
 │
 ├── main.py          # Starts the chatbot program
@@ -26,7 +26,7 @@ Enigmatica/
 ├── utils/           # Helper functions
 └── config.py        # Settings for the chatbot
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
 Python 3.8 or higher
 
@@ -55,7 +55,7 @@ You will now see:
 You: hello
 Bot: Hi! How can I help you?
 
-##🔧 How to Add New Features
+## 🔧 How to Add New Features
 
 You can easily extend the chatbot:
 
@@ -65,7 +65,7 @@ Update chatbot.py to include your new logic
 
 You can also connect an AI model later if you want
 
-##🤝 Contributing
+## 🤝 Contributing
 
 If you want to help improve this chatbot:
 
@@ -75,7 +75,8 @@ Make your changes
 
 Open a Pull Request
 
-##📄 License
+## 📄 License
 
 This project is open-source. You are free to use, change, and improve it.
+
 
